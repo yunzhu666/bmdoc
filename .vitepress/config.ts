@@ -89,6 +89,10 @@ export default defineConfig({
                 {
                     text: 'OpenRouter(默认模型)',
                     link: '/docs/api/OpenRouter.md',
+                },
+                {
+                    text: 'gemini',
+                    link: '/docs/api/gemini.md',
                 }
               ]
             }
