@@ -25,4 +25,4 @@
 由于本软件内置了OpenRouter的api选项,所以你不需要使用自定义模型中配置OpenRouter Api  
 你可在最上端模型那一栏选择模型,然后在右侧输入框中输入api key并点击保存  
 图示:
-![图示](../../imgs/ortips.png)
+![图示](../../public/ortips.png)
