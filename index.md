@@ -1,13 +1,13 @@
 ---
 layout: home
 
-title: 笔墨星河Doc
-titleTemplate: 笔墨星河档站
+title: Galaxy of Ink & Brush Doc
+titleTemplate: 笔墨星河文档站
 
 hero:
-  name: ClouderyDoc
-  text: 笔墨星河档站
-  tagline: 为各项方面提供文档服务
+  name: Galaxy of Ink & Brush
+  text: 笔墨星河文档站
+  tagline: 为你提供使用文档服务
   image:
     src: /logo-with-shadow.png
     alt: Vite
@@ -17,15 +17,15 @@ hero:
       link: /docs/
 
 features:
-  - icon: ⚡️
-    title: 极速的网页加载
-    details: 我们使用VitePress服务并构建网页，加速网页!
-  - icon: 💡
-    title: 即刻加入
-    details: 你可以在云术官网加入我们的团队，只要审核通过!
-  - icon: 🛠️
-    title: 丰富的项目
-    details: 游戏、前端、后端，应有尽有!
+  - icon: ✍️
+    title: 🤖 AI 智能辅助
+    details: AI 帮你润色文笔、生成剧情、塑造角色，让创作更轻松！
+  - icon: 🧩
+    title: 🎭 角色与剧情管理
+    details: 可视化角色、情节、风格卡片，让复杂故事一目了然。
+  - icon: 📥
+    title: 🛠️ 多格式导出
+    details: 支持 PDF、TXT、Word 等格式，方便出版或分享。
 ---
 
 <script setup>
