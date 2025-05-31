@@ -8,8 +8,8 @@ const ogTitle = 'Vite'
 const ogUrl = 'https://vitejs.dev'
 
 export default defineConfig({
-  title: 'ClouderyDoc',
-  description: '云术工作室文档站',
+  title: '笔墨星河文档站',
+  description: '笔墨星河文档站',
   lang: 'zh-CN',
 
   head: [
@@ -75,8 +75,22 @@ export default defineConfig({
                 link: '/docs/'
             },
             {
-                text: 'api配置方法',
-                link: '/docs/api.md',
+              text: 'api配置',
+              link: '/docs/api/',
+              items: [
+                {
+                    text: 'deepseek',
+                    link: '/docs/api/deepseek.md',
+                },
+                {
+                    text: '硅基流动',
+                    link: '/docs/api/siliconflow.md',
+                },
+                {
+                    text: 'OpenRouter(默认模型)',
+                    link: '/docs/api/OpenRouter.md',
+                }
+              ]
             }
           ],
         },
