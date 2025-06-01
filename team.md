@@ -16,9 +16,9 @@ import { core, emeriti, cnTranslator } from './_data/team'
 
 <VPTeamPage>
   <VPTeamPageTitle>
-    <template #title>认识我们的团队</template>
+    <template #title>认识我们的开发者</template>
     <template #lead>
-      下面是对一些 Cloudery 团队成员的介绍。
+      下面是对一些成员的介绍。
     </template>
   </VPTeamPageTitle>
   <VPTeamMembers :members="core" />

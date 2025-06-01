@@ -2,7 +2,7 @@ export const core = [
   {
     avatar: './bm.png',
     name: '笔墨星河AI写作',
-    title: '创始人',
+    title: '创始人&软件作者',
     org: '笔墨星河',
     desc: '笔墨绘星河，书写属于自己的故事！',
   },

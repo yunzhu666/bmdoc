@@ -57,7 +57,7 @@ export default defineConfig({
 
     footer: {
       copyright:
-        'Copyright 2022-2024 Cloudery , Std.'
+        'Copyright 2022-2025 Cloudery&笔墨星河 , Std.'
     },
 
     nav: [
