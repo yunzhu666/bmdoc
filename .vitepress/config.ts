@@ -95,6 +95,54 @@ export default defineConfig({
                     link: '/docs/api/gemini.md',
                 }
               ]
+            },
+            {
+              text: '下载',
+              link: '/docs/download/',
+              items: [
+                {
+                    text: '版本介绍',
+                    link: '/docs/download/introduction.md',
+                },
+                {
+                    text: '预览版',
+                    link: '/docs/download/preview.md',
+                }
+              ]
+            },
+            {
+              text: 'ai参考输出实例',
+              link: '/docs/example/',
+              items: [
+                {
+                    text: 'DeepSeek V3',
+                    link: '/docs/example/deepseekv3.md',
+                },
+                {
+                    text: 'DeepSeek R1',
+                    link: '/docs/example/deepseekr1.md',
+                },
+                {
+                    text: 'Gemini 2.0 Flash',
+                    link: '/docs/example/gemini2f.md',
+                },
+                {
+                    text: 'Gemini 2.5 Pro Preview 05-06',
+                    link: '/docs/example/gemini25p05-06.md',
+                },
+                {
+                    text: 'Gemini 2.5 Flash Preview 05-20',
+                    link: '/docs/example/gemini25fp05-20.md',
+                },
+                {
+                    text: 'ChatGML(智谱)',
+                    link: '/docs/example/chatgml.md',
+                },
+                {
+                    text: 'Qwen3-235B-A22B',
+                    link: '/docs/example/qwen3-235b-a22b.md',
+                }
+              ]
             }
           ],
         },
