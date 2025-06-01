@@ -1,5 +1,7 @@
 # API 基本信息
 
+**注:本平台有免费额度 详情看下面**
+
 |配置项|说明|
 |--|--|
 |API 名称|siliconflow(硅基流动) API (示例)|
@@ -17,3 +19,9 @@
 1. 登录 [siliconflow 平台](https://cloud.siliconflow.cn/)
 2. 进入「API密钥」管理页面
 3. 创建或复制您的API密钥
+
+### 免费额度
+ 在用手机号注册时使用邀请链接或邀请码  
+ [邀请链接](https://cloud.siliconflow.cn/i/Bsl2A8Mv)  
+ 邀请码 `Bsl2A8Mv`  
+ 将获得14元平台额度，适用于绝大多数模型
