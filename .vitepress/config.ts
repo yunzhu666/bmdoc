@@ -101,7 +101,7 @@ export default defineConfig({
               link: '/docs/download/',
               items: [
                 {
-                    text: '版本介绍',
+                    text: '版本使用&介绍',
                     link: '/docs/download/introduction.md',
                 },
                 {

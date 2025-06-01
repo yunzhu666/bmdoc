@@ -7,7 +7,7 @@
 |API 名称|openrouter API|
 |API 基础 URL|`https://api.openrouter.ai/v1`|
 |官方文档|[openrouter 平台](https://openrouter.ai/)|
-|API 路径|`chat/completions`|
+|API 路径|`/chat/completions`|
 |API 密钥|请登录平台自行查看|
 |模型名称|模型名字为Models中的完整名字,如`deepseek/deepseek-r1-0528:free`,请参考官方文档选择合适模型|
 |其他|有许多免费模型|
