@@ -93,6 +93,10 @@ export default defineConfig({
                 {
                     text: 'gemini',
                     link: '/docs/api/gemini.md',
+                },
+                {
+                    text: 'bigmodel(智谱)',
+                    link: '/docs/api/bigmodel.md',
                 }
               ]
             },

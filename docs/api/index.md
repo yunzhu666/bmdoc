@@ -8,5 +8,7 @@
 
  若你打算使用自定义Api,请看对应ai的篇目
 
+ 提示:本软件使用的是OpenAi库,只要你对接的api支持这种格式,你也可以有样学样的配置对接
+
  自定义Api图示:
  ![howtoues](../../public/howuse.png)
