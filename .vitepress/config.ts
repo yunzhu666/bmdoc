@@ -97,6 +97,10 @@ export default defineConfig({
                 {
                     text: 'bigmodel(智谱)',
                     link: '/docs/api/bigmodel.md',
+                },
+                {
+                    text: 'ollama',
+                    link: '/docs/api/ollama.md',
                 }
               ]
             },
@@ -105,7 +109,7 @@ export default defineConfig({
               link: '/docs/download/',
               items: [
                 {
-                    text: '版本使用&介绍',
+                    text: '使用介绍',
                     link: '/docs/download/introduction.md',
                 },
                 {
